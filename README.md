@@ -1,5 +1,6 @@
 # Data Engineering 
-YouTube Analysis Project Overview
+YouTube Analysis Project Overview.
+
 This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
 
 # Project Goals
@@ -26,6 +27,6 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ##Architecture Diagram
-https://raw.githubusercontent.com/rajkumarr1977/dataengineering-youtube-analysis-project/main/architecture.jpeg
+<img width="1163" alt="Screenshot 2023-03-16 at 15 17 22" src ="https://raw.githubusercontent.com/rajkumarr1977/dataengineering-youtube-analysis-project/main/architecture.jpeg">
 
 
